@@ -3,6 +3,8 @@ package edu.wit.cs.comp1050;
 //TODO: document this class
 public class Shifter {
 	
+	// think about what class variables you will need here
+	
 	/**
 	 * Number of letters in the English alphabet
 	 */
@@ -36,6 +38,7 @@ public class Shifter {
 	 * @return array of shifts (0-25) that contain the substring (in order)
 	 */
 	public int[] findShift(String sub) {
+		// hint: use shift() and an ArrayList of ints
 		return null; // replace with your code
 	}
 

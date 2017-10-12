@@ -13,6 +13,8 @@ public class PA4b {
 	 */
 	public static final int NUM_ARGS = 7;
 	
+	// hint: consider adding a validateArgs() method like we had in PA3 to make main() simpler
+
 	/**
 	 * Produces a string representing
 	 * all vertex information in CSV
