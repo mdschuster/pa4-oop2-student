@@ -27,6 +27,7 @@ public class Shifter {
 	 * @return shifted string
 	 */
 	public String shift(int n) {
+	    // hint: Math.floorMod() can be very helpful here
 		return null; // replace with your code
 	}
 	
