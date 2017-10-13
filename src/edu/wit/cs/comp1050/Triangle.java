@@ -2,6 +2,7 @@ package edu.wit.cs.comp1050;
 
 //TODO: document this class
 public class Triangle extends Shape2D {
+	// hint: think about how you want to store the points
 	
 	/**
 	 * Constructs a triangle given
