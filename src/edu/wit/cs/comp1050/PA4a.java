@@ -13,8 +13,6 @@ public class PA4a {
 	 */
 	public static final String ERR_NONE = "No valid shifts found.";
 
-	// hint: consider adding a validateArgs() method like we had in PA3 to make main() simpler
-	
 	/**
 	 * Outputs all shifts of the encrypted string
 	 * that contain the supplied substring
