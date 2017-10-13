@@ -39,7 +39,8 @@ public class Shifter {
 	 * @return array of shifts (0-25) that contain the substring (in order)
 	 */
 	public int[] findShift(String sub) {
-		// hint: use shift() and an ArrayList of ints
+		// hint: use shift() and an ArrayList of Integers
+		// note that you'll have to convert the ArrayList back into an int[] to return it
 		return null; // replace with your code
 	}
 
